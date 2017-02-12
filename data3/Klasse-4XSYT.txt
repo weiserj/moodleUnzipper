@@ -1,0 +1,35 @@
+Danho;Patrick             ; ;
+Filipovic;Nemanja         ; ;
+Gao;Jun Jie               ; ;
+Hanslik;Peter             ; ;
+Jevtic;Boban              ; ;
+Kopanski;Jakub            ; ;
+Mock;Kilian               ; ;
+Ottomaier;Mario           ; ;
+Özer;Angelo               ; ;oezer;özer
+Pawlik;Bernhard           ; ;
+Piasecki;Martin           ; ;
+Sauermann;Raphael         ; ;
+Čolaković ;Zeljko         ; ;colakovic
+Bishara;Johannes          ; ;
+Ciez;David                ; ;
+Ecevit;Emre               ; ;
+Ertl;Marvin               ; ;
+Heinzel;Patrick           ; ;
+Hold;Alexander            ; ;
+Holecek;Ram               ; ;
+Jäger;Florian             ; ;jaeger;jäger
+Ji;Wang;                  ; ;
+Müller;Maximilian         ; ;mueller;müller
+Rieger;Pierre             ; ;
+Rotter;Nicolaus           ; ;
+Scopulovic;Filip          ; ;
+Schweder;Thomas           ; ;
+Sunaric;Dragana           ; ;
+Vojnovic;Mladen           ; ;
+Waldock;Kevin             ; ;
+Weiss;Matthias            ; ;
+Wölfer;Martin             ; ;woelfer;wölfer
+Zaher;Merna               ; ;
+Zuba;Lukas                ; ;
+Hamberger;Gregor          ; ;

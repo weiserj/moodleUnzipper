@@ -1,0 +1,12 @@
+Radosavljevic;Petar         ; ;
+Rührig;Kevin              ; ;ruehrig;rührig
+Saifee;Farhan             ; ;
+Samwald;David             ; ;
+Sebestian;Rene            ; ;
+Skanda;Max                ; ;
+Spanner;Michael           ; ;
+Streicher;Matthias        ; ;
+Suljic;Dzenan             ; ;
+Torkamani;Sami            ; ;
+Vu;David                  ; ;
+Winkler; Leo              ; ;

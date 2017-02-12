@@ -1,0 +1,15 @@
+Aminger;Isabella          ; ;
+Bavrka;Mario              ; ;
+Budovinszky;Martin        ; ;
+Egger;Michael             ; ;
+El-Far;Matthias           ; ;
+Helm;Johannes             ; ;
+Irrasch;Teresa            ; ;
+Jäger;Philip              ; :jaeger;jäger
+Karakattu;Justin          ; ;
+Kisbedo;John              ; ;
+Madlik;Michel             ; ;
+Rohrböck;Martin           ; ;rohrboeck;rohrböck
+Sator;Benedict            ; ;
+Schmied;Andreas           ; ;
+Waismayer;Elias           ; ; 

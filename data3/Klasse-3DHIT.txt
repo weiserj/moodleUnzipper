@@ -1,0 +1,20 @@
+Adam;Nicolas              ; ;
+Aydin; Fatih              ; ;
+Barosch;Christoph         ; ;
+Bruckner;Alexander        ; ;brucknera;bruckner a
+Bruckner;Dario            ; ;brucknerd;bruckner d
+Budak;Adem                ; ;
+Dvorak;Julian             ; ;
+Fröhlich;Andrej           ; ;froehlich;fröhlich
+Hofer;David               ; ;
+Joksch;Felician           ; ;
+Kramreiter;Alexander      ; ;
+Maniak;David              ; ;
+Medved;Florian            ; ;medvedf;medved f
+Medved;Philipp            ; ;medvedp;medved p
+Rousavy;Marc              ; ;
+Schlegel;Ben              ; ;
+Schuh;Patrick              ; ;
+Tesanovic;Nemanja         ; ;
+Vicovac;Oliver            ; ;
+Wutscher;Richard          ; ;
